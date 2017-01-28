@@ -1,7 +1,7 @@
 {
     "name": "rabbit-project/rabbit-core",
     "description": "CORE for rabbit-cms",
-    "type": "project",
+    "type": "library",
     "require": {
         "php": ">=5.6"
     },
