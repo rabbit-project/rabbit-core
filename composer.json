@@ -17,7 +17,7 @@
         }
     ],
     "autoload": {
-        "psr-0": { "Rabbit\\Core\\": "" }
+        "psr-4": { "Rabbit\\Core\\": "" }
     },
     "minimum-stability": "dev",
     "extra": {
