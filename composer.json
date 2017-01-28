@@ -1,5 +1,5 @@
 {
-    "name": "rabbit_project/rabbit-core",
+    "name": "rabbit-project/rabbit-core",
     "description": "CORE for rabbit-cms",
     "type": "project",
     "require": {
